@@ -1,2 +1,2 @@
-# Patika--devler
+# Patika-ödevler
 ilk-ödev
