@@ -1,0 +1,2 @@
+# Patika--devler
+ilk-ödev
