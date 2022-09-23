@@ -1,2 +1,4 @@
 # Patika-ödevler
-ilk-ödev
+Ödevler
+ve
+Calismalar
